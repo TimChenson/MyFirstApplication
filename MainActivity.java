@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         testButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"test5.....",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"test6.....",Toast.LENGTH_SHORT).show();
             }
         });
     }
